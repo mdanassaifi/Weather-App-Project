@@ -6,9 +6,6 @@
 
 Welcome to the Weather App project! This application provides live weather updates for various cities by leveraging a weather API to fetch real-time weather data. The app displays all the essential weather information, including temperature, humidity, wind speed, and weather conditions.
 
-## Deployment
-
-You can view the deployed project at: [Deployment Link](https://weather-app-project.hafeezbaig.in/)
 
 ## Features
 
@@ -28,7 +25,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Hafeezbaig/Weather-App-Project
+   git clone (https://github.com/mdanassaifi/Weather-App-Project.git)
    cd Weather-App-Project
    ```
 
@@ -55,23 +52,4 @@ Simply open the `index.html` file in your browser to start using the Weather App
 
 This project demonstrates a basic implementation of a weather app using HTML, CSS, and JavaScript. It uses a weather API to fetch real-time data and displays comprehensive weather information. This project is an excellent example for beginners looking to learn how to integrate third-party APIs and build responsive web applications.
 
-Feel free to contribute to the project or use it as a reference for your own development needs. For any issues or suggestions, please open an issue in the [GitHub repository](https://github.com/Hafeezbaig/Weather-App-Project/issues).
-
-## Made By
-
-This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
-
-## Connect
-
-- [Portfolio](https://www.hafeezbaig.in)
-- [Connect](https://connect.hafeezbaig.in)
-
-## Socials
-
-- [GitHub](https://github.com/Hafeezbaig)
-- [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
-- [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
-
-## Feedback or Bugs report
-
-- [Talk](https://talk.hafeezbaig.in)
+Feel free to contribute to the project or use it as a reference for your own development needs. For any issues or suggestions, please open an issue in the [GitHub repository]https://github.com/mdanassaifi/Weather-App-Project.git
